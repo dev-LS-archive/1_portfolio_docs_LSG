@@ -127,23 +127,19 @@
 #### **직업 체험(3D) 웹 콘텐츠**
 - **작업 시기**: 24년도 초반
 - **내용**: 직업 재활 시설 견학 교육 프로그램 개발에서 제면 작업 체험 파트 담당
+- **핵심 기술**: Unity, Cinemachine, UI, DOTween
   ![alt text](FoodWorkPlace_Noodle.jpg)
   ![alt text](FoodWorkPlace_Noodle_1.jpg)
 
 #### **산업안전 VR 교육 시뮬레이션 다수**
 - **작업 시기**: 22년도 후반 ~ 23년도 말
 - **내용**: 도로안전, 갱폼, 테트라포트, 터널, 예인선 등 다수의 VR 안전 교육 콘텐츠 개발
-- **담당**: 클라이언트 프로그래밍 및 저사양 VR 기기 타겟의 **렌더링 최적화** 주도
-
-- **내용**: 직업 재활 시설 견학 교육 프로그램 개발에서 제면 작업 체험 파트 담당
-- 22-24년도 산업안전 VR 교육 시뮬레이션 다수
-  도로안전 / 갱폼 / 테트라포트 / 터널 / 예인선 등
-  (스크린샷 or 영상 캡처 2~3장)
-
-
+- **담당**: 클라이언트 프로그래밍 및 저사양 VR 환경에서도 원활히 돌아갈만한 성능의 **렌더링 최적화** 적용
+- **핵심 기술**: Unity, HurrcaneVR (XRTK 기반 VR 프레임워크)
+- 플레이 영상
 
 #### **LiDAR 센서 연동 박물관 인터랙티브 콘텐츠**
-- 작업 시기: 22년 중반
+- **작업 시기**: 22년 중반
 - **내용**: 라이다 센서 데이터를 활용한 실시간 체험형 인터랙션 시스템 구축
 - **핵심 기술**: Unity, RPLiDAR, TUIO Protocol, TouchScript
 - **주요 구현**:
@@ -158,8 +154,11 @@
   ![alt text](image-1.png)  
   ![alt text](image-2.png)
 
-- VRChat 월드 제작 (LG 프로젝트)
-- ![alt text](image.png)
+#### VRChat 월드 제작 (LG 프로젝트)
+![alt text](image.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
   링크: [LG_VRC_World](https://vrchat.com/home/launch?worldId=wrld_9279b8ef-6bcf-4109-8116-0209d9bebf1c)
 
 - 유튜브 영상 콘텐츠 (Spine 2D / HDRP 3D)
@@ -188,7 +187,7 @@
 
 - **VRChat 월드 최적화 가이드 및 글로벌 기술 지원**
     - 해외 제작자 대상 기술 지원을 위해 **일본어 최적화 기술 문서** 직접 작성 및 배포.
-    - 드로우콜 절감, 메쉬 결합 등 실무 최적화 노하우 공유를 통한 기술적 문제 해결 기여.ㅈㅈ
+    - 드로우콜 절감, 메쉬 결합 등 실무 최적화 노하우 공유를 통한 기술적 문제 해결 기여.
     - [기술 문서: VRChat 최적화 가이드 (KR/JP 번역본)](https://docs.google.com/document/d/1yTc725S5BFonoZz-TK4-UdV6-ahUZOopaRzUYqO0PEg/edit?usp=sharing)
 - **지속적인 기술 블로그 기록**
     - 부트캠프 학습 과정에서 배운 내용을 작성 및 정리한 TIL을 `벨로그(Velog)`를 통해 꾸준히 공유하여 기록을 남김.
