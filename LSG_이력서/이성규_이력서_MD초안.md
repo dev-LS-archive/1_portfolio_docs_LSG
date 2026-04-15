@@ -86,9 +86,9 @@
   - 12×5 그리드 매칭→제거→낙하→리필→재매칭 체인 루프 전체 설계·구현
   - 60개 블록 오브젝트 풀링으로 런타임 성능 최적화
   - 흐름을 제어하는 MonoBehaviour 매니저 스크립트와 역할을 인터페이스로 분리한 순수 C# 클래스로 역할별로 분리해 기능 구현해 결합도를 최소화
-  - 이펙트 타이밍 충돌 "고스트 블록" 버그를 dual-wait 조건(clearDelay + Despawn 콜백)으로 해결
-  - 튜토리얼 담당 팀원용 ITutorialBoardControl 인터페이스 + ScriptableObject 프리셋 + 테스트 동작 코드 + 가이드 문서
-- 링크: [GitHub] / [플레이 영상] / [기술 문서]
+  - 이펙트 타이밍 충돌 "고스트 블록" 버그를 이중 대기 조건(매칭 딜레이 + Despawn 콜백)으로 해결
+  - 튜토리얼 연동을 위해 외부에서 제어가 가능하도록 별도 인터페이스를 설계 + SO 튜토리얼 정보 프리셋 + 테스트 동작 코드 + 가이드 문서 작성
+- 링크: [GitHub](https://github.com/Kyungil-smart/08-firstcollabproject-Largegini) / [플레이 영상](https://youtu.be/sxNtjgEBkLA) / [기술 문서](https://github.com/dev-LS-archive/1_-_-/blob/main/LSG_%EA%B8%B0%EC%88%A0%EB%AC%B8%EC%84%9C/TEMFKing/TEMFKing_%EA%B8%B0%EC%88%A0%20%EB%AC%B8%EC%84%9C_%EC%9D%B4%EC%84%B1%EA%B7%9C.md)
  
 ---
 
