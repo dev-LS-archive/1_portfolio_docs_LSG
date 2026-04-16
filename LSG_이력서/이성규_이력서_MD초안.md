@@ -121,7 +121,8 @@
 - 링크: [GitHub](https://github.com/Kyungil-smart/05-unitybaiscs-teamproject-dev-LS-archive-1) / [플레이 영상](https://youtu.be/pBfPvFQdeDE?si=aX88XdtFyKwVbNti) / [기술 문서](https://github.com/dev-LS-archive/OverTheSky-Unity_Team_Project/blob/main/Docs/%EB%AC%B8%EC%84%9C%EC%A0%95%EB%A6%AC_%EC%9D%B4%EC%84%B1%EA%B7%9C/OverTheSky_%EC%9C%A0%EB%8B%88%ED%8B%B0%20%ED%8C%80%20%ED%98%91%EC%97%85%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%9A%8C%EA%B3%A0(%EC%9D%B4%EC%84%B1%EA%B7%9C).md)
  
 ---
-
+// 아카이빙 개념으로 우선 스크린샷 첨부.
+// 추후 다듬을때 MD가 아닌 노션이나 PDF 등에서 보일 시점을 고려하여 링크나 미리보기 세부페이지 등으로 정리 필욘
 ### **실무 프로젝트 — 레이징덕 (2020.11 ~ 2024.03)**
 
 #### **직업 체험(3D) 웹 콘텐츠**
@@ -165,10 +166,6 @@
   유니티 타임라인 기반 제작
   (영상 링크 or 캡처)
 
-#### **기타 주요 실무 프로젝트 내역**
-- **직업 체험(3D) 웹 콘텐츠**: 제면 공정 등 웹 기반 3D 시뮬레이션 콘텐츠 개발 (2024)
-- **VRChat 브랜드 월드 제작**: LG 프로젝트 등 가상 공간 홍보 월드 구축 및 최적화
-- **유니티 타임라인 기반 영상 제작**: **Spine 2D / HDRP 3D** 리소스를 활용한 인터랙티브 영상 및 연출 시퀀스 제작
 ---
  
 ### 배달지왕 — 모바일 캐주얼 게임 (대학 졸업작품)
